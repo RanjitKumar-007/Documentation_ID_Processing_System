@@ -1,1 +1,1 @@
-
+Cropped face photos are extracted from each ID document using OpenCV Haar Cascade detection and saved alongside the JSON output for display purposes only. These crops are not used for any identity verification or liveness decision — they simply provide a visual reference of the individual shown on the card.
