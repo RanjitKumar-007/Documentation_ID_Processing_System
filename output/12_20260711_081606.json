@@ -1,0 +1,17 @@
+{
+  "document_type": "PAN",
+  "fields": {
+    "dob": "1993-01-01",
+    "name": "RAHUL ASARAM NATHBHAJAN",
+    "father_name": "ASARAM NATHBHAJAN",
+    "pan_number": "BJWPN7904G"
+  },
+  "confidence": {
+    "dob": 0.97,
+    "name": 0.95,
+    "father_name": 0.95,
+    "pan_number": 0.99
+  },
+  "source_file": "C:\\Users\\Ranjit\\AppData\\Local\\Temp\\gradio\\69653ef557187435347d92c26bc5b0c0bcb7ce6dee0c4a40acd311d13a07c4eb\\12.jpg",
+  "photo_path": "photos\\12_photo.jpg"
+}

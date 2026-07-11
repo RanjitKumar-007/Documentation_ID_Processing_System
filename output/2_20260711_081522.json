@@ -1,0 +1,17 @@
+{
+  "document_type": "Aadhaar",
+  "fields": {
+    "dob": "1982-04-10",
+    "name": "Lathiya Ashaben",
+    "aadhaar_number": "255330945102",
+    "gender": "Female"
+  },
+  "confidence": {
+    "dob": 0.97,
+    "name": 0.95,
+    "aadhaar_number": 0.99,
+    "gender": 0.95
+  },
+  "source_file": "C:\\Users\\Ranjit\\AppData\\Local\\Temp\\gradio\\0f0642a84eb9d7f1579d0924ea8bee863bc3d1ec508b79e0a2acfd605a99db37\\2.png",
+  "photo_path": "photos\\2_photo.jpg"
+}
