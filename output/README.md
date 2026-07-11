@@ -1,1 +1,1 @@
-
+Each processed image or PDF outputs a structured JSON object containing the detected document type (Aadhaar, PAN, Voter ID, Driving Licence, or Passport) along with extracted fields such as name, DOB, ID number, and address, each paired with a confidence score. This structured format allows downstream systems to reliably parse, validate, and cross-check extracted data for every input document.
